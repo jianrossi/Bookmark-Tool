@@ -1,0 +1,10 @@
+{
+  "name": "vs-bookmark-tool",
+  "version": "0.0.0",
+  "description": "vsBookmark-Tool",
+  "main": "server.js",
+  "author": {
+    "name": "jrossi",
+    "email": ""
+  }
+}
